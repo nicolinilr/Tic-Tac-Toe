@@ -13,4 +13,4 @@ A fully functional game of Tic-Tac-Toe, including move-tracking and "time-travel
 * React Javascript Framework
 
 ## Setup
-To run, execute `npm start' from the project directory. The app will launch in your default web-browser. To play, click on a square to place the next player's mark in that spot.
+To run, execute `npm start` from the project directory. The app will launch in your default web-browser. To play, click on a square to place the next player's mark in that spot.
